@@ -1,0 +1,5 @@
+.qmake.stash
+.qtc_clangd/*
+build
+Makefile
+*.o
