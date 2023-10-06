@@ -9,7 +9,7 @@ QMAKE_MACOSX_DEPLOYMENT_TARGET = 12.0 # override
 TEMPLATE = app
 TARGET = ips2crash
 
-DESTDIR = "build/$$BUILD_DIR"
+DESTDIR = "$$BUILD_DIR"
 
 OBJECTIVE_SOURCES += main.m
 

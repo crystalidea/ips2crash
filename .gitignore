@@ -3,3 +3,6 @@
 build
 Makefile
 *.o
+.DS_Store
+release-*
+debug-*
